@@ -1,4 +1,4 @@
-# Using crime and demographic driven decisions
+# Crime and demographic driven decisions
 
 ## Introduction
 I just moved to the United States and I thought this would be a great opportunity to try to predict crime in some of the cities I was looking at living in. I prefer to live in the city with the lowest crimes of course!
