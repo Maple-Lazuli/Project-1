@@ -9,11 +9,11 @@ This is my first dive into a solo analysis using linear regression and US census
 ## Resources Utilized
 ### Python Libraries
 The following python libraries were utilized:
-1. numpy
-2. pandas
-3. matplotlib
-4. sklearn
-5. seaborn
+1. numpy - Source: https://numpy.org/
+2. pandas - Source: https://pandas.pydata.org/
+3. matplotlib - Source: https://matplotlib.org/stable/index.html
+4. sklearn - Source: https://scikit-learn.org/stable/
+5. seaborn - Source: https://seaborn.pydata.org/#
 
 ### Library Installation
 Execute the following code either in an interactive python shell or
